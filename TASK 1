@@ -1,0 +1,19 @@
+<html>
+<head>
+    <title>Panda</title>
+</head>
+<body>
+<center>
+    <h1><u>Panda</u></h1>
+    <hr>
+   <img src="C:\xampp2\htdocs\paandas\pandaas.jpg" width="300" height="200">
+    <p><b>Panda</b> is a cute animal.</p>
+    <p><i>Pandas</i> eat bamboo.</p>
+    <p><mark>Pandas are endangered animals.</mark></p>
+    <blockquote>
+        Pandas are known for their black and white fur.
+    </blockquote>
+    <hr>
+</center>
+</body>
+</html>
